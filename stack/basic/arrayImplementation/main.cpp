@@ -4,7 +4,7 @@ void action1(stack<std::string> s);
 
 int main(){
     int x;
-    std::cout<<"Choose Your Data type \n 1.Interger \t 2.Float \n";
+    std::cout<<"Choose Your Data type \n 1.Interger \t 2.Character \n";
 
     std::cin>>x;
     switch(x){
